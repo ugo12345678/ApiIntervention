@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SDV\\UpBackend\\Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A88A2B-C703-43D0-A48C-47757E51EF9D}|..\\Business\\Business.csproj|c:\\sdv\\upbackend\\business\\manager\\interventionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A9FD70-A28C-4942-A7B2-A184D6B42A9B}|..\\Business.Abstraction\\Business.Abstraction.csproj|c:\\sdv\\upbackend\\business.abstraction\\manager\\iinterventionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC0349F-5794-4D30-B3B7-C9C77E19F2FD}|Api.csproj|c:\\sdv\\upbackend\\api\\controllers\\interventioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC0349F-5794-4D30-B3B7-C9C77E19F2FD}|Api.csproj|solutionrelative:controllers\\interventioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A88A2B-C703-43D0-A48C-47757E51EF9D}|..\\Business\\Business.csproj|c:\\sdv\\upbackend\\business\\manager\\currentlanguagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A88A2B-C703-43D0-A48C-47757E51EF9D}|..\\Business\\Business.csproj|c:\\sdv\\upbackend\\business\\manager\\messagelocalizermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A88A2B-C703-43D0-A48C-47757E51EF9D}|..\\Business\\Business.csproj|c:\\sdv\\upbackend\\business\\validators\\interventionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IInterventionManager.cs",
+              "DocumentMoniker": "C:\\SDV\\UpBackend\\Business.Abstraction\\Manager\\IInterventionManager.cs",
+              "RelativeDocumentMoniker": "..\\Business.Abstraction\\Manager\\IInterventionManager.cs",
+              "ToolTip": "C:\\SDV\\UpBackend\\Business.Abstraction\\Manager\\IInterventionManager.cs",
+              "RelativeToolTip": "..\\Business.Abstraction\\Manager\\IInterventionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:22:54.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InterventionController.cs",
+              "DocumentMoniker": "C:\\SDV\\UpBackend\\Api\\Controllers\\InterventionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InterventionController.cs",
+              "ToolTip": "C:\\SDV\\UpBackend\\Api\\Controllers\\InterventionController.cs",
+              "RelativeToolTip": "Controllers\\InterventionController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwB8AAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:11:37.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CurrentLanguageManager.cs",
+              "DocumentMoniker": "C:\\SDV\\UpBackend\\Business\\Manager\\CurrentLanguageManager.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Manager\\CurrentLanguageManager.cs",
+              "ToolTip": "C:\\SDV\\UpBackend\\Business\\Manager\\CurrentLanguageManager.cs",
+              "RelativeToolTip": "..\\Business\\Manager\\CurrentLanguageManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:09:31.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InterventionManager.cs",
+              "DocumentMoniker": "C:\\SDV\\UpBackend\\Business\\Manager\\InterventionManager.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Manager\\InterventionManager.cs",
+              "ToolTip": "C:\\SDV\\UpBackend\\Business\\Manager\\InterventionManager.cs",
+              "RelativeToolTip": "..\\Business\\Manager\\InterventionManager.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAowKYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:09:30.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageLocalizerManager.cs",
+              "DocumentMoniker": "C:\\SDV\\UpBackend\\Business\\Manager\\MessageLocalizerManager.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Manager\\MessageLocalizerManager.cs",
+              "ToolTip": "C:\\SDV\\UpBackend\\Business\\Manager\\MessageLocalizerManager.cs",
+              "RelativeToolTip": "..\\Business\\Manager\\MessageLocalizerManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:09:16.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InterventionValidator.cs",
+              "DocumentMoniker": "C:\\SDV\\UpBackend\\Business\\Validators\\InterventionValidator.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Validators\\InterventionValidator.cs",
+              "ToolTip": "C:\\SDV\\UpBackend\\Business\\Validators\\InterventionValidator.cs",
+              "RelativeToolTip": "..\\Business\\Validators\\InterventionValidator.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwDUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:36:11.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
